@@ -1,4 +1,4 @@
-# [Verily Vagabonding](https://vnisha.github.io/vagabonding)
+# [Verily Vagabonding](https://vnisha.github.io/verilyvagabonding)
 
 
 Ref: 
